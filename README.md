@@ -1,11 +1,9 @@
 # Abdiel Álvarez ❄️
 
-¡Hola! Soy Abdiel Álvarez, un desarrollador frontend mexicano con experiencia en Software en la CDMX 💻. Tengo una pasión ❤️ por crear interfaces web atractivas y amigables para el usuario. Soy un entusiasta de todo lo que se relaciona con React.js y las tecnologías web modernas.
+Hello! I'm Abdiel, a frontend developer in CDMX 💻. I'm passionate about creating web interfaces with React.js ❤️. I'm fluent in Spanish, English, and German. I've worked on several projects, I do freelance work, and I'm looking for new opportunities to continue growing professionally.
 
-He colaborado en diferentes tipos de proyectos y páginas web orientadas al área de leyes, desarrollo, fintechs, política, entre otros. Actualmente, estoy en búsqueda de nuevas oportunidades profesionales para colaborar en proyectos emocionantes junto a profesionales con intereses similares y seguir avanzando en mi desarrollo profesional.
+## Contributions on Medium 📝 
+I'm an avid contributor on Medium, sharing my knowledge, experiences, and technical opinions on various topics related to my field as a developer. I invite you to check out my contributions at: https://medium.com/@abdy4lvarez
 
-## Contribuciones en Medium
-Soy un ávido contribuidor en Medium de mis conocimientos, experiencias y opiniones técnicas de diversos temas relacionados a mi campo como desarrollador. Te invito a que veas mis contribuciones en: https://medium.com/@abdy4lvarez
-
-## Página Web
-También puedes visitar mi página web para conocer más sobre mi trabajo y proyectos en: https://abdielalvarez.com
+## Website 🌐
+You can also visit my website to learn more about my work and projects at: https://abdielalvarez.com
