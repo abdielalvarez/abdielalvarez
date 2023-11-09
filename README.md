@@ -5,7 +5,7 @@
 He colaborado en diferentes tipos de proyectos y páginas web orientadas al área de leyes, desarrollo, fintechs, política, entre otros. Actualmente, estoy en búsqueda de nuevas oportunidades profesionales para colaborar en proyectos emocionantes junto a profesionales con intereses similares y seguir avanzando en mi desarrollo profesional.
 
 ## Contribuciones en Medium
-Soy un ávido contribuidor en Medium de mis conocimientos, experiencias y opiniones técnicas de diversos temas relacionados a mi campo como desarrollador. Te invito a que veas mis contribuciones en https://medium.com/@abdy4lvarez.
+Soy un ávido contribuidor en Medium de mis conocimientos, experiencias y opiniones técnicas de diversos temas relacionados a mi campo como desarrollador. Te invito a que veas mis contribuciones en: https://medium.com/@abdy4lvarez
 
 ## Página Web
-También puedes visitar mi página web en https://abdielalvarez.com para conocer más sobre mi trabajo y proyectos.
+También puedes visitar mi página web para conocer más sobre mi trabajo y proyectos en: https://abdielalvarez.com
